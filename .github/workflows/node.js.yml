@@ -19,7 +19,6 @@ jobs:
       # Required to allow the vitest coverage action to write a comment into the pull request
       pull-requests: write
 
-    strategy:
       # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
